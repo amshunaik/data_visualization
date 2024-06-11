@@ -1,5 +1,6 @@
 # Dashboards
-1. Air Quality Dashboard
+
+Air Quality Dashboard
 
 Features: 
 * Programmed in R language
